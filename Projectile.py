@@ -1,0 +1,4 @@
+# Projectile
+
+class Projectile:
+    pass

@@ -1,0 +1,4 @@
+# Aliens
+
+class Alien:
+    pass
